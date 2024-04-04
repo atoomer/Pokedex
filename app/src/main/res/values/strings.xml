@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Pokedex</string>
+    <string name="id_text">ID: %d</string>
+    <string name="name_text">Name: %s</string>
+    <string name="type_text">Type: %s</string>
+    <string name="height_text">Height: %d</string>
+    <string name="weight_text">Weight: %d</string>
+    <string name="sprite">Sprite</string>
+    <string name="share">Share</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="help_text">This app uses data from the PokeAPI which uses a RESTful API interface. Each Pokemon is displayed in a card with their name and ID.  Upon tapping the card, the app displays the name, ID, type,  height, weight, and an image of the pokemon.  The user had the option to look at any pokemon in the known Pokedex. To learn more about the API, visit pokeapi.co.</string>
+
+</resources>
